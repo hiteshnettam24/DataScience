@@ -1,5 +1,0 @@
-import os
-
-this_file=os.path.abspath(__file__)
-
-print(this_file)
